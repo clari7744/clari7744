@@ -20,13 +20,13 @@ Hola! Soy Clari!
 [![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=typescript&style=flat-square)](https://typescriptlang.org/es)
 [![React](https://img.shields.io/badge/React-gray?logo=react&style=flat-square)](https://es.react.dev)
 [![HTML](https://img.shields.io/badge/HTML-gray?logo=html5&style=flat-square)](https://developer.mozilla.org/es/docs/Glossary/HTML)
-[![Java](https://img.shields.io/badge/Java-gray?logo=java&style=flat-square)](https://www.java.com/es/)
+[![Flutter](https://img.shields.io/badge/Flutter-gray?style=flat-square&logo=flutter&logoColor=027DFD)](https://esflutter.dev)
 [![C++](https://img.shields.io/badge/C++-gray?logo=cplusplus&style=flat-square)](https://isocpp.org)
-
+[![Java](https://img.shields.io/badge/Java-gray?logo=java&style=flat-square)](https://www.java.com/es/)
 ### Sistemas Operativos
 
-[![Android](https://img.shields.io/badge/Android-14-3ddc84?logo=android&style=flat-square)](https://android.com/intl/es) en [![Google Pixel 7a](https://img.shields.io/badge/Google_Pixel-7a-4285f4?logo=google&style=flat-square)](https://pixel.google.com)<br/>
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-e95420?logo=ubuntu&style=flat-square)](https://wiki.ubuntu.com/Spanish)
+[![Android](https://img.shields.io/badge/Android-16-3ddc84?logo=android&style=flat-square)](https://android.com/intl/es) en [![Google Pixel 7a](https://img.shields.io/badge/Google_Pixel-7a-4285f4?logo=google&style=flat-square)](https://pixel.google.com)<br/>
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-e95420?logo=ubuntu&style=flat-square)](https://wiki.ubuntu.com/Spanish)
 [![Windows](https://img.shields.io/badge/Windows-11-00adef?logo=windows&style=flat-square)](https://microsoft.com/es/windows) en [![LG Gram](https://img.shields.io/badge/LG_Gram-333333?logo=lg&style=flat-square)](https://lg.com/es)
 
 ### Encuéntrame en

@@ -19,12 +19,13 @@ Hello! I'm Clari!
 [![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=typescript&style=flat-square)](https://typescriptlang.org)
 [![React](https://img.shields.io/badge/React-gray?logo=react&style=flat-square)](https://react.dev)
 [![HTML](https://img.shields.io/badge/HTML-gray?logo=html5&style=flat-square)](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
-[![Java](https://img.shields.io/badge/Java-gray?logo=java&style=flat-square)](https://www.java.com/en/)
-[![C++](https://img.shields.io/badge/C++-gray?logo=cplusplus&style=flat-square)](https://isocpp.org)
+[![Flutter](https://img.shields.io/badge/Flutter-gray?style=flat-square&logo=flutter&logoColor=027DFD)](https://flutter.dev)
+[![C++](https://img.shields.io/badge/C++-gray?logo=cplusplus&style=flat-square&logoColor=659AD2)](https://isocpp.org)
+[![Java](https://img.shields.io/badge/Java-gray?style=flat-square)](https://www.java.com/en/)
 
 ### Operating Systems
 
-[![Android](https://img.shields.io/badge/Android-15-3ddc84?logo=android&style=flat-square)](https://android.com) on
+[![Android](https://img.shields.io/badge/Android-16-3ddc84?logo=android&style=flat-square)](https://android.com) on
 [![Google Pixel 7a](https://img.shields.io/badge/Google_Pixel-7a-4285f4?logo=google&style=flat-square)](https://pixel.google.com)
 
 
