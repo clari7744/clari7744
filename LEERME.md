@@ -60,7 +60,30 @@ Hola! Soy Clari!
     <li><a href="https://cake.avris.it/rB5" target="_blank">Attraction Layer Cake</a></li>
   </ul>
 </details>
+<details>
+  <summary>
+    <strong>Proyectos</strong>
+  </summary><br/>
+  Discord
+  <ul>
+    <li><a href="https://discord.gg/EQkDnBS" target="_blank">Mi Servidor</a></li>
+    <li><a href="https://discord.com/oauth2/authorize?client_id=742036262004981801&scope=bot+applications.commands&permissions=8" target="_blank">Clari's Helper</a></li>
+  </ul>
+  Juegos
+  <ul>
+    <li><a href="https://ttt.clari7744.dev" target="_blank">TicTacToe En Linea</a></li>
+    <li><a href="https://replit.com/@clari7744/TicTacToepy?v=1" target="_blank">TicTacToe.py</a></li>
+  </ul>
+</details>
 
+<details>
+  <summary>
+    <strong>Organizaciones</strong>
+  </summary><br/>
+  <ul>
+    <li><a href="https://github.com/PortalDiscordDevelopment" target="_blank">Portal/Xernerx</a></li>
+  </ul>
+</details>
 ## Estadísticas
 
 [![GitHub stats](https://github-readme-stats-clari.vercel.app/api?username=clari7744&locale=es&theme=tokyonight&show_icons=true&show=prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true)](https://github.com/clari7744/github-readme-stats)<br/>

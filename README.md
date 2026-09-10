@@ -86,7 +86,7 @@ I have a bunch of bots.</pre>
   </ul>
   Games
   <ul>
-    <li><a href="https://ttt.zanderp25.com" target="_blank">TicTacToe Online</a></li>
+    <li><a href="https://ttt.clari7744.dev" target="_blank">TicTacToe Online</a></li>
     <li><a href="https://replit.com/@clari7744/TicTacToepy?v=1" target="_blank">TicTacToe.py</a></li>
   </ul>
 </details>
@@ -96,7 +96,7 @@ I have a bunch of bots.</pre>
     <strong>Organizations</strong>
   </summary><br/>
   <ul>
-    <li><a href="https://github.com/PortalDiscordDevelopment" target="_blank">Portal</a></li>
+    <li><a href="https://github.com/PortalDiscordDevelopment" target="_blank">Portal/Xernerx</a></li>
   </ul>
 </details>
 
